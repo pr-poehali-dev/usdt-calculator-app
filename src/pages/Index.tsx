@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import Icon from '@/components/ui/icon';
 
 const COIN_IMG =
-  'https://cdn.poehali.dev/projects/d52cf564-08ab-4ac7-8e39-800a3cb80733/files/227e8c66-6176-4d92-9103-7ea7773d4f11.jpg';
+  'https://cdn.poehali.dev/projects/d52cf564-08ab-4ac7-8e39-800a3cb80733/bucket/17054637-4be5-418e-84c9-ae62d0cafaeb.png';
 
 const STORAGE_KEY = 'usdt_balance_v1';
 
